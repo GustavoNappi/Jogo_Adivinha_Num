@@ -1,0 +1,14 @@
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\bin\Debug\net8.0\Jogo_Adv_Num.exe
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\bin\Debug\net8.0\Jogo_Adv_Num.deps.json
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\bin\Debug\net8.0\Jogo_Adv_Num.runtimeconfig.json
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\bin\Debug\net8.0\Jogo_Adv_Num.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\bin\Debug\net8.0\Jogo_Adv_Num.pdb
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\Jogo_Adv_Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\Jogo_Adv_Num.AssemblyInfoInputs.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\Jogo_Adv_Num.AssemblyInfo.cs
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\Jogo_Adv_Num.csproj.CoreCompileInputs.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\Jogo_Adv_Num.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\refint\Jogo_Adv_Num.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\Jogo_Adv_Num.pdb
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\Jogo_Adv_Num.genruntimeconfig.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\Jogo para descobrir numeros\Jogo_Adv_Num\obj\Debug\net8.0\ref\Jogo_Adv_Num.dll
